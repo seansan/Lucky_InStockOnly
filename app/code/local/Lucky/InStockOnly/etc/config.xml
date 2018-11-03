@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+
+<global>
+  <models>
+
+    <catalog>
+      <rewrite>
+        <layer>Lucky_InStockOnly_Catalog_Model_Layer</layer>
+      </rewrite>
+    </catalog>
+    <catalogsearch>
+      <rewrite>
+        <layer>Lucky_InStockOnly_CatalogSearch_Model_Layer</layer>
+      </rewrite>
+    </catalogsearch>
+
+
+  </models>
+</global>
+
+</config>
